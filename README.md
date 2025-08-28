@@ -15,8 +15,9 @@ Quando um usuário acessa `http://localhost:8080`, o Nginx encaminha a requisiç
 ### Clone o repositório github.com/oliveiracmorais/fullcycle-rocks
 
 ```bash
-git clone https://github.com/seu-usuario/fullcycle-rocks.git
+git clone https://github.com/oliveiracmorais/fullcycle-rocks.git
 cd fullcycle-rocks
+docker-compose up -d --build
 ```
 
 ## 🧪 Como Testar
